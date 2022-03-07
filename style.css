@@ -1,0 +1,45 @@
+/*Your CSS code goes below this line*/
+body{
+  background-color: tomato;
+}
+h2{ text-size-adjust: 5;
+  text-align: center;
+  text-transform: capitalize;
+  text-decoration-color: white;
+  text-transform: uppercase;
+  text-size-adjust: 10
+
+}
+.one { background-color: mediumseagreen;
+  border-color: mediumseagreen;
+  text-align: left;
+  text-transform: uppercase;
+  text-size-adjust: 10
+}
+.two { background-color: orange;
+  border-color: orange;
+  text-align: center;
+  text-transform: uppercase;
+  text-size-adjust: 10
+} 
+.three { background-color: darkorchid;
+  border-color: darkorchid;
+  text-align: right;
+  text-transform: uppercase;
+  text-size-adjust: 10
+} 
+button{
+  text-size-adjust: 10;
+  border: 2;
+border-radius: 5;
+border-width: 10;
+width: fit-content;
+padding: 2;
+letter-spacing: 2;
+font: bold;
+font-size: 10;
+letter-spacing: 2;
+text-transform: uppercase;
+text-decoration-color: white;
+text-size-adjust: 2;
+}
